@@ -1,6 +1,11 @@
 # Node
 
-## build
+## Error
+
+### Import
+* [A namespace-style import cannot be called or constructed, and will cause a failure at runtime](https://stackoverflow.com/questions/49256040/a-namespace-style-import-cannot-be-called-or-constructed-and-will-cause-a-failu)
+
+### Build
 
 * [Error: Error: Passed function is not well-serializable!](https://stackoverflow.com/questions/59021700/passed-function-is-not-well-serializable)
 
