@@ -1,5 +1,8 @@
 # Web
 
+## Scaners
+* <https://resources.infosecinstitute.com/topic/14-popular-web-application-vulnerability-scanners/>
+
 ## Directory Traversal Attacks
 * <https://github.com/wireghoul/dotdotpwn>
 * <https://github.com/lightos/Panoptic/blob/master/cases.xml>
