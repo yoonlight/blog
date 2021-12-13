@@ -44,3 +44,9 @@ With the manual of pkg, the ```--public``` means that : ***speed up*** and discl
 ## Handle Process
 1. [Handle Ctr-C](https://stackoverflow.com/questions/20165605/detecting-ctrlc-in-node-js)
 1. [Handle Process Exit](https://stackoverflow.com/questions/14031763/doing-a-cleanup-action-just-before-node-js-exits)
+
+# CSV
+
+* <https://stackabuse.com/reading-and-writing-csv-files-with-node-js/>
+* <https://stackoverflow.com/questions/58041723/typescript-with-express-type-typeof-importexpress-has-no-call-signatures>
+* <https://github.com/microsoft/TypeScript/issues/3337>
