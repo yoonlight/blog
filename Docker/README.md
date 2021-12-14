@@ -8,7 +8,7 @@ FROM ubuntu:18.04
 ARG DEBIAN_FRONTEND=noninteractive
 ENV TZ=Asia/Seoul
 RUN cd /etc/apt && \
-  sed -i 's/archive.ubuntu.com/ftp.kaist.ac.kr/g' sources.list
+  sed -i 's/archive.ubuntu.com/mirror.kakao.com/g' sources.list
 
 RUN apt update -y
 
