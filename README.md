@@ -4,6 +4,7 @@
 * [Docker](<Docker/>)
 * [Security](<Security/>)
 * [Node](<Node/>)
+* [Linux](<Linux/>)
 
 You can use the [editor on GitHub](https://github.com/yoonlight/blog/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
