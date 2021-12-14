@@ -15,3 +15,5 @@
 * <https://github.com/welk1n/JNDI-Injection-Bypass>
 * <https://github.com/welk1n/JNDI-Injection-Exploit>
 
+### Scanner
+* <https://github.com/logpresso/CVE-2021-44228-Scanner>
