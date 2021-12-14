@@ -1,6 +1,6 @@
 # Web
 
-## Scaners
+## Scanners
 * <https://resources.infosecinstitute.com/topic/14-popular-web-application-vulnerability-scanners/>
 
 ## Directory Traversal Attacks
