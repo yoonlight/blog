@@ -9,6 +9,9 @@
 * <https://www.picussecurity.com/resource/blog/a-proactive-defense-approach-log4fj-vulnerability-cve-2021-44228>
 * <https://www.reddit.com/r/AskNetsec/comments/rdz43x/looking_for_modsecurity_rules_to_block_log4j_rce/>
 * <https://github.com/coreruleset/coreruleset/issues/2331>
+* <https://blog.cloudflare.com/actual-cve-2021-44228-payloads-captured-in-the-wild/>
+* <https://gist.github.com/Neo23x0/e4c8b03ff8cdf1fa63b7d15db6e3860b>
+* <https://github.com/Neo23x0/signature-base/blob/master/yara/expl_log4j_cve_2021_44228.yar>
 
 ### Exploit
 
