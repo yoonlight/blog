@@ -5,8 +5,11 @@
 
 ```Dockerfile
 FROM ubuntu:18.04
+# timezone setting
 ARG DEBIAN_FRONTEND=noninteractive
 ENV TZ=Asia/Seoul
+
+# Change Location of APT Archive
 RUN cd /etc/apt && \
   sed -i 's/archive.ubuntu.com/mirror.kakao.com/g' sources.list
 
