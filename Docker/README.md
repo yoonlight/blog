@@ -20,6 +20,8 @@ RUN apt install -y apache2
 
 CMD [ "bash" ]
 ```
+### How to use?
+* [Is it safe to clean docker/overlay2/](https://stackoverflow.com/questions/46672001/is-it-safe-to-clean-docker-overlay2)
 
 ### Ref.
 * <https://www.leafcats.com/242>
