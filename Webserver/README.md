@@ -9,4 +9,17 @@
 
 * [Naver](https://d2.naver.com/helloworld/6070967)
   * 로드 밸런서를 사용하는 일반적인 3계층(3-Tier) 분산 처리 모델
-  * 
+    * Load Balencer
+    * Web Server
+    * Web Application Service (WAS)
+    * Database
+  * Naver's Style
+    * Global CDN (GCDN)
+      * GSLB
+    * Server Side Inclusion
+    * Apache Custom Module
+      * Apache Portable Runtime
+      * https://apr.apache.org/
+    * Microservice
+      * circuit breaker
+      * service discovery
