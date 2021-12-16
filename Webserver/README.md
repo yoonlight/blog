@@ -28,3 +28,4 @@
         * 동적으로 생성, 삭제되는 서버 인스턴스에 대한 IP 주소와 포트를 자동으로 찾아 설정할 수 있게 하는 기능이다.
 
 * [Load Balencer](https://d2.naver.com/helloworld/605418)
+* [HAProxy](https://d2.naver.com/helloworld/284659)
