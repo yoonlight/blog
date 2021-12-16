@@ -8,3 +8,5 @@
 ## How to handle large traffic?
 
 * [Naver](https://d2.naver.com/helloworld/6070967)
+  * 로드 밸런서를 사용하는 일반적인 3계층(3-Tier) 분산 처리 모델
+  * 
