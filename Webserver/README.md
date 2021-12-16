@@ -18,8 +18,7 @@
       * GSLB
     * Server Side Inclusion
     * Apache Custom Module
-      * Apache Portable Runtime
-      * https://apr.apache.org/
+      * [Apache Portable Runtime](https://apr.apache.org/)
     * Microservice
       * circuit breaker
       * service discovery
