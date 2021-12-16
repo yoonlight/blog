@@ -55,3 +55,6 @@ With the manual of pkg, the ```--public``` means that : ***speed up*** and discl
 * <https://stackabuse.com/reading-and-writing-csv-files-with-node-js/>
 * <https://stackoverflow.com/questions/58041723/typescript-with-express-type-typeof-importexpress-has-no-call-signatures>
 * <https://github.com/microsoft/TypeScript/issues/3337>
+
+## Cluster
+* [Is there automatically a Load Balancer in place?](https://stackoverflow.com/questions/65218741/node-js-clustering-is-there-automatically-a-load-balancer-in-place)
