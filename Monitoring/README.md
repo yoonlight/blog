@@ -32,4 +32,4 @@
     docker plugin ls
     ```
 * Alertmanager
- * [Alert Rules](https://awesome-prometheus-alerts.grep.to/rules)
+    * [Alert Rules](https://awesome-prometheus-alerts.grep.to/rules)
