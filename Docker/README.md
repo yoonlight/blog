@@ -35,3 +35,8 @@ CMD [ "bash" ]
       external: true
       name: my-pre-existing-network  
   ```
+
+* [](https://github.com/ofstudio/docker-compose-scale-example)
+* [](https://medium.com/@vinodkrane/microservices-scaling-and-load-balancing-using-docker-compose-78bf8dc04da9)
+* [](https://codeburst.io/scaling-out-with-docker-and-nginx-8eda9fb1654c)
+* 
