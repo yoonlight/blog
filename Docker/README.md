@@ -36,8 +36,9 @@ CMD [ "bash" ]
       name: my-pre-existing-network  
   ```
 
-* [](https://github.com/ofstudio/docker-compose-scale-example)
-* [](https://medium.com/@vinodkrane/microservices-scaling-and-load-balancing-using-docker-compose-78bf8dc04da9)
-* [](https://codeburst.io/scaling-out-with-docker-and-nginx-8eda9fb1654c)
-* [](https://stackoverflow.com/questions/50203408/docker-compose-scale-x-nginx-conf-configuration)
+## Container Scale Out
+* [docker-compose-scale-example](https://github.com/ofstudio/docker-compose-scale-example)
+* [microservices-scaling-and-load-balancing-using-docker-compose](https://medium.com/@vinodkrane/microservices-scaling-and-load-balancing-using-docker-compose-78bf8dc04da9)
+* [scaling-out-with-docker-and-nginx](https://codeburst.io/scaling-out-with-docker-and-nginx-8eda9fb1654c)
+* [docker-compose-scale-x-nginx-conf-configuration](https://stackoverflow.com/questions/50203408/docker-compose-scale-x-nginx-conf-configuration)
 * 
