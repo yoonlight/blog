@@ -12,8 +12,8 @@
 * File Beats
 
 ## Prometheus
-* Prometheus
-* Grafana
+* [Prometheus](<Prometheus/Prometheus.md>)
+* [Grafana](<Prometheus/Grafana.md>)
 * Loki
   * [Installation](https://grafana.com/docs/loki/latest/installation/docker/)
   * [Configure the logging driver for a Swarm service or Compose](https://grafana.com/docs/loki/latest/clients/docker-driver/configuration/#configure-the-logging-driver-for-a-swarm-service-or-compose)
