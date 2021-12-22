@@ -3,7 +3,8 @@
 ## Command
 
 ### Tar
-* <https://linuxize.com/post/how-to-create-and-extract-archives-using-the-tar-command-in-linux/>
+* Ref
+  * <https://linuxize.com/post/how-to-create-and-extract-archives-using-the-tar-command-in-linux/>
 
 ### iptables
 * allow
@@ -18,4 +19,5 @@ iptables -I INPUT -p tcp -m tcp --dport 80 -j ACCEPT
 sudo service iptables save
 ```
 
-* Ref <https://docs.rackspace.com/support/how-to/allow-web-traffic-in-iptables/>
+* Ref
+  * <https://docs.rackspace.com/support/how-to/allow-web-traffic-in-iptables/>
