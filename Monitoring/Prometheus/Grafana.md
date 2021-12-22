@@ -9,3 +9,5 @@
 * Node Exporter
   * <https://grafana.com/grafana/dashboards/1860>
   * <https://grafana.com/grafana/dashboards/13978>
+* Black Box Exporter
+  * <https://grafana.com/grafana/dashboards/7587>
