@@ -16,9 +16,6 @@ With the manual of pkg, the ```--public``` means that : ***speed up*** and discl
 1. https://github.com/tj/commander.js#readme
 1. https://github.com/lirantal/nodejs-cli-apps-best-practices#12-build-empathic-clis
 
-## Async
-
-1. https://stackoverflow.com/questions/37576685/using-async-await-with-a-foreach-loop
 
 ## I/O
 
