@@ -30,3 +30,5 @@
   ```shell
   docker plugin ls
   ```
+* [running loki and grafana on docker swarm](https://drailing.net/2020/06/running-loki-and-grafana-on-docker-swarm/)
+  * log collector: docker-driver vs promtail
