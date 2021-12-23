@@ -1,6 +1,15 @@
 # Loki
 
 * [Installation](https://grafana.com/docs/loki/latest/installation/docker/)
+* Docker Compose Script
+  ```YAML
+  services:
+    loki:
+      image: grafana/loki:2.4.0
+      ports:
+        - "3100:3100"
+      command: -config.file=/etc/loki/local-config.yaml  
+  ```
 * [Configure the logging driver for a Swarm service or Compose](https://grafana.com/docs/loki/latest/clients/docker-driver/configuration/#configure-the-logging-driver-for-a-swarm-service-or-compose)
   ```YAML
   version: "3"
