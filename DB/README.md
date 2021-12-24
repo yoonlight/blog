@@ -3,6 +3,7 @@
 ## MongoDB
 
 * [Cloud](https://www.mongodb.com/pricing)
+* [Cannot truncate a table referenced in a foreign key constraint](https://wookmania.tistory.com/113)
 
 ## MySQL
 
