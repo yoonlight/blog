@@ -22,7 +22,10 @@
   ```shell
   vagrant ssh
   ```
-
+  * Delete Provisioning VM
+  ```shell
+  vagrant destroy -f
+  ```
 ### Ref.
 
 * [Test infrastructure](https://thebook.io/080241/ch02/)
