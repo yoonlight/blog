@@ -32,6 +32,7 @@
 * [Command](https://thebook.io/080241/ch02/01/03/)
 * [Vagrant Image](https://app.vagrantup.com/boxes/search)
 * [Creating a Base Box](https://www.vagrantup.com/docs/boxes/base)
+* [Example Code](https://thebook.io/080241/ch02/02/01-01/)
 
 
 ## Virtualbox
