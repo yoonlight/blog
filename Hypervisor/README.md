@@ -10,8 +10,17 @@
 * Provisioning
   * [Provisioning is the process of setting up IT infrastructure.](https://www.redhat.com/en/topics/automation/what-is-provisioning)
 * Command
+  * generate vagrant file
   ```shell
   vagrant init
+  ```
+  * vagrant file start
+  ```shell
+  vagrant up
+  ```
+  * access vm through ssh
+  ```shell
+  vagrant ssh
   ```
 
 ### Ref.
@@ -19,6 +28,7 @@
 * [Test infrastructure](https://thebook.io/080241/ch02/)
 * [Command](https://thebook.io/080241/ch02/01/03/)
 * [Vagrant Image](https://app.vagrantup.com/boxes/search)
+* [Creating a Base Box](https://www.vagrantup.com/docs/boxes/base)
 
 
 ## Virtualbox
