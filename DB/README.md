@@ -12,3 +12,10 @@
 
 ### Command
 * [Grant](https://devdhjo.github.io/mysql/2020/01/29/database-mysql-002.html)
+
+## REDIS
+* [Cloud](https://redis.com/redis-enterprise-cloud/overview/)
+
+
+## Firebase
+* [Official Site](https://firebase.google.com/?hl=ko)
