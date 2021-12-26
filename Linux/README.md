@@ -22,3 +22,9 @@
 
 * Ref
   * <https://docs.rackspace.com/support/how-to/allow-web-traffic-in-iptables/>
+
+### Version check 
+* CentOS
+  ```shell
+  cat /etc/redhat-release
+  ```
