@@ -20,6 +20,11 @@
   ```shell
   vagrant destroy -f
   ```
+  * Change VM Setting
+  ```shell
+  vagrant provision
+  ```
+
 ## Ref.
 
 * [Test infrastructure](https://thebook.io/080241/ch02/)
