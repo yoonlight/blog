@@ -6,3 +6,6 @@
   * <https://www.redhat.com/en/topics/automation/what-is-orchestration>
 
 * kubeadm
+
+## Reference
+* <https://github.com/sysnet4admin/_Book_k8sInfra>
