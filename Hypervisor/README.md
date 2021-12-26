@@ -8,6 +8,7 @@
 
 * IaC, Infrastructure as Code
 * Provisioning
+  * [Provisioning is the process of setting up IT infrastructure.](https://www.redhat.com/en/topics/automation/what-is-provisioning)
 * Command
   ```shell
   vagrant init
