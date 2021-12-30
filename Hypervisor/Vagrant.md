@@ -25,6 +25,9 @@
   vagrant provision
   ```
 
+## Hyper-V
+* <https://docs.microsoft.com/en-us/virtualization/community/team-blog/2017/20170706-vagrant-and-hyper-v-tips-and-tricks#tip-0-install-hyper-v>
+
 ## Ref.
 
 * [Test infrastructure](https://thebook.io/080241/ch02/)
