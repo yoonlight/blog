@@ -8,6 +8,7 @@
 * [BlackBox Exporter](https://github.com/prometheus/blackbox_exporter)
 * MySQL Exporter
   * https://github.com/prometheus/mysqld_exporter
+  * https://grafana.com/oss/prometheus/exporters/mysql-exporter/
 
 ## How to?
 
