@@ -9,6 +9,7 @@
 * MySQL Exporter
   * https://github.com/prometheus/mysqld_exporter
   * https://grafana.com/oss/prometheus/exporters/mysql-exporter/
+  * https://awesome-prometheus-alerts.grep.to/rules#mysql
 * Node Exporter
   * https://grafana.com/oss/prometheus/exporters/node-exporter/
 
