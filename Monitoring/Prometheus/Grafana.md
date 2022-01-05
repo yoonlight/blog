@@ -39,3 +39,5 @@
   * <https://grafana.com/docs/grafana/latest/datasources/loki/#configure-the-data-source-with-provisioning>
 * Alertmanager
   * <https://grafana.com/docs/grafana/latest/datasources/alertmanager/>
+* Jaeger
+  * <https://grafana.com/docs/grafana/latest/datasources/jaeger/>
