@@ -1,5 +1,9 @@
 # OpenTelemetry
 
+## Tempo
+
+* <https://grafana.com/docs/tempo/latest/getting-started/>
+
 ## Reference
 
 * <https://opentelemetry.io/docs/instrumentation/js/>
