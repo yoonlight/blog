@@ -4,7 +4,7 @@
 
 * Docker-Compose
   ```yaml
-    grafana:
+  grafana:
     image: grafana/grafana
     ports:
       - "3000:3000"
