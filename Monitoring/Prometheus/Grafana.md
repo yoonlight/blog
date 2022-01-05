@@ -41,3 +41,11 @@
   * <https://grafana.com/docs/grafana/latest/datasources/alertmanager/>
 * Jaeger
   * <https://grafana.com/docs/grafana/latest/datasources/jaeger/>
+  ```yaml
+  datasources:
+    - name: Jaeger
+    type: jaeger
+    uid: jaeger-spectra
+    access: proxy
+    url: http://jaeger:16686/
+  ```
