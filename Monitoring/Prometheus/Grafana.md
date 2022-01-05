@@ -1,5 +1,20 @@
 # Grafana
 
+## Install
+
+* Docker-Compose
+  ```yaml
+    grafana:
+    image: grafana/grafana
+    ports:
+      - "3000:3000"
+    volumes:
+      - grafana_data:/var/lib/grafana
+    #  - /root/monitoring/grafana/datasource.yaml:/etc/grafana/provisioning/datasources/datasource.yaml
+  ```
+
+
+
 ## Dashboards
 
 * cAdvisor
