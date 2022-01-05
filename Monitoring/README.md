@@ -11,9 +11,5 @@
 * Logstash
 * File Beats
 
-## Prometheus
-* [Prometheus](<Prometheus/Prometheus.md>)
-* [Grafana](<Prometheus/Grafana.md>)
-* [Loki](<Prometheus/Loki.md>)
-* [Alertmanager](Prometheus/Alertmanager.md)
-* [OpenTelemetry](Prometheus/OpenTelemetry.md)
+## [Prometheus](Prometheus)
+
