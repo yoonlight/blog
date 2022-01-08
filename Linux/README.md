@@ -28,3 +28,10 @@
   ```shell
   cat /etc/redhat-release
   ```
+
+### Sed
+
+* APT 미러사이트 
+```shell
+sudo sed -i 's/kr.archive.ubuntu.com/mirror.kakao.com/g' /etc/apt/sources.list
+```
