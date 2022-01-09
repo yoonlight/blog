@@ -1,5 +1,10 @@
 # Linux
 
+## netplan
+
+* set static ip
+  * <https://linuxconfig.org/how-to-configure-static-ip-address-on-ubuntu-18-10-cosmic-cuttlefish-linux>
+
 ## Command
 
 ### Tar
