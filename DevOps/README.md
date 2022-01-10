@@ -4,7 +4,10 @@
 
 * Tools
   * Ansible
+    * Server Configuration and Automation
   * Vagrant
+    * Virtual Machine Management
+  * <https://stackshare.io/stackups/ansible-vs-vagrant>
 * Reference
   * <https://www.hpe.com/kr/ko/what-is/infrastructure-as-code.html>
   * <https://docs.microsoft.com/en-us/devops/deliver/what-is-infrastructure-as-code>
