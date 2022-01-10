@@ -5,7 +5,7 @@
 * Tools
   * Ansible
     * Server Configuration and Automation
-  * Vagrant
+  * [Vagrant](vagrant.md)
     * Virtual Machine Management
   * <https://stackshare.io/stackups/ansible-vs-vagrant>
 * Reference
