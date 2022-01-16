@@ -16,6 +16,7 @@
 ## Best Practices
 
 * <https://github.com/goldbergyoni/nodebestpractices>
+* <https://blog.bitsrc.io/javascript-worst-practices-dc78e19d6f12>
 
 ## Handle Process
 
