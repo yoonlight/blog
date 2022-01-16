@@ -10,6 +10,7 @@
 * [Crawler](Crawler.md)
 * [Regex](Regex.md)
 * [CSV](Csv.md)
+* [Design Pattern](design-pattern)
 
 ## Best Practices
 
