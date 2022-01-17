@@ -1,8 +1,13 @@
 # .NET
 
+## Trends
+
+* <https://enlear.academy/top-9-net-trends-to-dominate-in-2022-65ea14d24f56>
+
 ## Example
 
 * <https://levelup.gitconnected.com/web-scraping-in-net-c-934d6a85c32e>
+* <https://medium.com/c-sharp-progarmming/tutorial-net-5-clean-architecture-4cc900f7945b>
 
 ## Env
 
