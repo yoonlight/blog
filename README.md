@@ -23,6 +23,7 @@
 ## Recommend
 
 * <https://zriyansh.medium.com/programming-languages-to-avoid-and-learn-in-2022-c8e2a1cdf427>
+* <https://javascript.plainenglish.io/double-your-income-as-a-javascript-typescript-developer-today-933d6fc5337e>
 
 ## Versus
 
