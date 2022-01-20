@@ -24,9 +24,14 @@
 
 * <https://zriyansh.medium.com/programming-languages-to-avoid-and-learn-in-2022-c8e2a1cdf427>
 * <https://javascript.plainenglish.io/double-your-income-as-a-javascript-typescript-developer-today-933d6fc5337e>
+* <https://betterprogramming.pub/the-clean-architecture-beginners-guide-e4b7058c1165>
 
 ## Versus
 
 ### Node vs Java
 
 * <https://medium.com/@externlabs/nodejs-vs-java-which-is-best-for-your-business-in-2022-36445ce09fbe>
+
+### Modern Browsers vs Node.js
+
+* <https://imprashantgajera.medium.com/modern-browsers-vs-node-js-architechture-to-handle-javascript-82d2ce9c5ccd>
