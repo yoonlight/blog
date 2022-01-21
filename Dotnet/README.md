@@ -1,5 +1,7 @@
 # .NET
 
+* <https://amrelsher07.medium.com/smart-enum-in-c-26d10ade2d5e>
+
 ## Trends
 
 * <https://enlear.academy/top-9-net-trends-to-dominate-in-2022-65ea14d24f56>
