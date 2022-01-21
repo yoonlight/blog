@@ -13,6 +13,7 @@
 * [Design Pattern](design-pattern.md)
 * [NPM](npm.md)
 * [Error Handling](error-handling.md)
+* [Architecture](architecture.md)
 
 ## Best Practices
 
