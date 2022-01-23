@@ -10,6 +10,7 @@
 
 * <https://levelup.gitconnected.com/web-scraping-in-net-c-934d6a85c32e>
 * <https://medium.com/c-sharp-progarmming/tutorial-net-5-clean-architecture-4cc900f7945b>
+* <https://pereiren.medium.com/a-simple-template-for-onion-architecture-with-net-5-6c0e2f3b29c8>
 
 ## Env
 
