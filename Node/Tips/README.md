@@ -10,3 +10,8 @@
 4. Prevent falsey value from evaluating to false
 
 * <https://medium.com/front-end-weekly/3-small-tips-to-make-you-master-yoda-of-typescript-10f7ec4e2ff8>
+
+## fastest code
+
+* Loop
+  * <https://medium.com/@Bigscal-Technologies/which-type-of-loop-is-fastest-in-javascript-55cc1845f5de>
