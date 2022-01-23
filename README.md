@@ -27,6 +27,10 @@
 * <https://betterprogramming.pub/the-clean-architecture-beginners-guide-e4b7058c1165>
 * <https://levelup.gitconnected.com/8-youtube-channels-that-you-should-follow-as-a-python-developer-6c4f725f72ca>
 
+## Roadmap
+
+* <https://medium.com/@punit3299/backend-developer-complete-roadmap-dc202974d412>
+
 ## Versus
 
 ### Node vs Java
