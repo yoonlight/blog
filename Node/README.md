@@ -29,3 +29,11 @@
 ## Cluster
 
 * [Is there automatically a Load Balancer in place?](https://stackoverflow.com/questions/65218741/node-js-clustering-is-there-automatically-a-load-balancer-in-place)
+
+## Trends
+
+* <https://javascript.plainenglish.io/top-node-js-development-trends-in-2021-807f27fdf1b8>
+
+## Performance
+
+* <https://medium.com/@preetipriyanka24/performance-improvement-in-node-js-69adb40d0db0>
