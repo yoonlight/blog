@@ -16,4 +16,14 @@
 ## CI/CD (Continuous Integration Continuous Deployment)
 
 * Github Actions
- * <https://docs.github.com/en/actions/quickstart>
+  * Quick Start
+  * <https://docs.github.com/en/actions/quickstart>
+  * storing artifacts
+  * <https://docs.github.com/en/actions/advanced-guides/storing-workflow-data-as-artifacts>
+  * Building Node.ks
+  * <https://docs.github.com/en/actions/automating-builds-and-tests/building-and-testing-nodejs-or-python#example-using-yarn>
+  * Set Secret
+  * <https://docs.github.com/en/actions/security-guides/encrypted-secrets#about-encrypted-secrets>
+  * Deploy to Netlify
+  * <https://github.com/marketplace/actions/netlify-actions>
+  * <https://github.com/marketplace/actions/netlify-deploy>
