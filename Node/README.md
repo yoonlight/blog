@@ -21,8 +21,14 @@
 
 ```shell
 yarn add -D eslint eslint-config-prettier eslint-plugin-prettier prettier
-node_modules/.bin/eslint --init
+yarn create @eslint/config
 ```
+
+* reference
+  * <https://eslint.org/docs/user-guide/getting-started>
+  * <https://prettier.io/docs/en/integrating-with-linters.html>
+  * <https://github.com/prettier/eslint-config-prettier>
+  * <https://github.com/prettier/eslint-plugin-prettier>
 
 ## Best Practices
 
