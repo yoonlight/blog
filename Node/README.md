@@ -15,6 +15,15 @@
 * [Error Handling](error-handling.md)
 * [Architecture](architecture.md)
 
+## Setup
+
+* convention check
+
+```shell
+yarn add -D eslint eslint-config-prettier eslint-plugin-prettier prettier
+node_modules/.bin/eslint --init
+```
+
 ## Best Practices
 
 * <https://github.com/goldbergyoni/nodebestpractices>
