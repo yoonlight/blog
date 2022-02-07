@@ -14,6 +14,7 @@
 ## Component
 
 * <https://www.webcomponents.org/>
+* <https://academind.com/tutorials/web-components-introduction#:~:text=Web%20Components%20are%20a%20set,any%20JavaScript%20framework%20or%20library%20.>
 
 ## Column
 
