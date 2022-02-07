@@ -14,6 +14,9 @@
   * <https://seokjun.kim/time-to-stop-react/>
   * <https://blog.garstasio.com/you-dont-need-jquery/>
   * <https://jeonghwan-kim.github.io/2018/01/25/before-jquery.html>
+  * <https://dev.to/ajibolarilwan14/vanilla-js-or-framework-22k4>
+  * <https://hashnode.com/post/react-js-vs-vanilla-js-cku6mrs0c01psjls129xc9iis>
+  * <https://medium.com/@jasim_ab/should-you-use-a-javascript-framework-or-go-vanilla-c7cddb2b46b1>
 * Etc
   * <http://youtube.github.io/spfjs/>
   * <https://lit.dev/>
