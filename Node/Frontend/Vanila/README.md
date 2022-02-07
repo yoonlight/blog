@@ -10,3 +10,11 @@
 * <https://halimshams.medium.com/amazing-html5-features-that-just-3-of-developers-knows-easy-and-surprising-ac67ff598162>
 * window resize detect
   * <https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=ads226&logNo=220566989379>
+
+## Component
+
+* <https://www.webcomponents.org/>
+
+## Column
+
+* <https://snipcart.com/blog/learn-vanilla-javascript-before-using-js-frameworks>
